@@ -21,7 +21,7 @@ Change me in doc/overview.md and run `knife cookbook doc .`
 * `node['java-oracle']['repository']['key']` -  Defaults to `EEA14886`.
 * `node['java-oracle']['repository']['keyserver']` -  Defaults to `keyserver.ubuntu.com`.
 * `node['java-oracle']['package']` -  Defaults to `oracle-java8-installer`.
-* `node['java-oracle']['version']` -  Defaults to `8u101+8u101arm-1~webupd8~2`.
+* `node['java-oracle']['version']` -  Defaults to `latest`.
 * `node['java-oracle']['alt']` -  Defaults to `java-8-oracle`.
 
 # Recipes
